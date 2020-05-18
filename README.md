@@ -1,3 +1,6 @@
+Curso do site Rocketseat - Starter - Curso JavaScriptES6
+
+> Aulas do curso:
 # Conceitos
     - [x] Introdução 
     - [x] Instalando Node & Yarn
